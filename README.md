@@ -1,9 +1,4 @@
 # Sass-Mini-Project
-![sass1](https://user-images.githubusercontent.com/49262108/231826934-b48d6413-2201-4a06-a262-ea7cd76967d4.png)
-![sass2](https://user-images.githubusercontent.com/49262108/231826942-2d527edc-d0ac-4feb-96d7-c6090d1f3609.png)
-
-
-
 # Getting Started
 Download the code from our GitHub repository.
 Install Sass on your machine using a package manager such as npm or yarn.
@@ -42,3 +37,10 @@ We welcome contributions from the community. Please refer to the CONTRIBUTING fi
 We value your feedback and suggestions. Please feel free to contact us at basit1107@gmail.com with any feedback or feature requests.
 
 Thank you for using our Sass-based responsive web page!
+
+![sass1](https://user-images.githubusercontent.com/49262108/231826934-b48d6413-2201-4a06-a262-ea7cd76967d4.png)
+![sass2](https://user-images.githubusercontent.com/49262108/231826942-2d527edc-d0ac-4feb-96d7-c6090d1f3609.png)
+
+
+
+
